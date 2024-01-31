@@ -6,6 +6,25 @@ tracking the live location of the bag using IoT
 
 A smart baggage tracking system using an Arduino Uno, GSM and GPS modules, and a Wi-Fi module combines hardware and software to monitor and track luggage throughout its journey. The Arduino uno serves as the microcontroller and is responsible for data collection, processing, and communication with other modules like GSM, GPS, Wi-Fi Modules.
 
+
+
+components we used :
+neo6m GPS:
+
+![WhatsApp Image 2024-01-31 at 2 01 03 PM (1)](https://github.com/k0Arjun/smart_baggage_tracker/assets/155369438/4b45f9cc-425e-48f5-a9e2-bff7b4b9e873)
+
+Sim800L :
+
+![WhatsApp Image 2024-01-31 at 2 01 03 PM](https://github.com/k0Arjun/smart_baggage_tracker/assets/155369438/b81d8bc5-15a4-498d-ac74-17d8e08071de)
+
+final project after the circuit connection:
+
+![WhatsApp Image 2024-01-15 at 1 09 12 PM](https://github.com/k0Arjun/smart_baggage_tracker/assets/155369438/1d33d19f-6abf-4484-a011-54e1f0cb30fd)
+
+
+
+
+
     The baggage tracking device is initialized with passenger and travel information.The GPS 
       module acquires the initial location of the luggage. The system continuously collects GPS data 
       and, if available, sensor readings (temperature, humidity, etc.) to monitor the luggage's status.
