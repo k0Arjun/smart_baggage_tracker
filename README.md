@@ -20,6 +20,10 @@ output :
 a msg has be recieved from the sim800l with map location.
 ![WhatsApp Image 2024-01-31 at 2 02 09 PM (1)](https://github.com/k0Arjun/smart_baggage_tracker/assets/155369438/11055894-4205-42f9-993a-051cb21466a1)
 
+using the link we will be able to locate the perfect location by using it.
+![WhatsApp Image 2024-01-31 at 2 02 09 PM](https://github.com/k0Arjun/smart_baggage_tracker/assets/155369438/6d86e660-528b-40c8-ab71-6bfd228dff97)
+
+
 circuit connection:
 
 By connecting Gps, Gsm and arduino together with proper , we have made tracking system for smart baggage application . The following figure shows the circuit connection of the smart baggage tracking system
