@@ -16,10 +16,13 @@ Using the selected module (GSM or Wi-Fi), the system sends data to the central s
 
 The central server receives and processes the data from the luggage tracker. It updates the luggage's location, analyzes data, and maintains a database of luggage and passenger information. They receive notifications and updates about their baggage's status throughout the journey.
 
+output :
+a msg has be recieved from the sim800l with map location.
+![WhatsApp Image 2024-01-31 at 2 02 09 PM (1)](https://github.com/k0Arjun/smart_baggage_tracker/assets/155369438/11055894-4205-42f9-993a-051cb21466a1)
+
 circuit connection:
 
 By connecting Gps, Gsm and arduino together with proper , we have made tracking system for smart baggage application . The following figure shows the circuit connection of the smart baggage tracking system
-
 
 
 
